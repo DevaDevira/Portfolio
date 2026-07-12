@@ -1,10 +1,9 @@
-Repository ini berisi source file dari projek-projek berikut:
+This repository contains the source files for the following projects:
 1. **Handwritten Digit Recognition System Using Histogram of Oriented Gradients and K-Nearest Neighbors on the MNIST Dataset**
-
-   Berada di dalam folder "Handwritten Digit Recognition System". Terdiri dari 1 file code dengan format `.ipynb`
-3. **Public Sentiment Analysis of Indonesian Presidential Candidates on X Using Machine Learning and TF-IDF**
-
-   Berada di dalam folder "Sentiment Analysis of Indonesian Presidential Candidates". Terdiri dari 1 file code dengan format `.ipynb' serta 4 file dataset dengan format `.csv'. File `dataset.csv` merupakan gabungan dari ketiga dataset lainnya. File ini lah yang digunakan dalam mengolah data.
-5. **Analysis of Factors Associated with Social Media Addiction Among Students**
-
-   Berada di dalam folder Analysis of Social Media Addiction. Terdiri dari 1 file code dengan nama `Code.ipynb` serta 1 file dataset dengan nama `Students Social Media Addiction.csv`
+   Located in the "Handwritten Digit Recognition System" folder. This project consists of one Jupyter Notebook (.ipynb) file containing the implementation.
+2. **Public Sentiment Analysis of Indonesian Presidential Candidates on X Using Machine Learning and TF-IDF**
+   Located in the "Sentiment Analysis of Indonesian Presidential Candidates" folder. This project consists of one Jupyter Notebook (.ipynb) and four CSV (.csv) dataset files. The `dataset.csv` file is a combined dataset created from the other three CSV files and is the primary dataset used for data processing and analysis.
+3. **Analysis of Factors Associated with Social Media Addiction Among Students**
+   Located in the "Analysis of Social Media Addiction" folder. This project consists of one Jupyter Notebook (`Code.ipynb`) and one dataset file (`Students Social Media Addiction.csv`).
+4. **Sales Performance Analysis**
+   Located in the "Sales Performance Analysis" folder. This project consists of one Jupyter Notebook (`code.ipynb`), one anonymized dataset (`Penjualan Zenius.csv`), and two dashboard files (`Dashboard.pdf` and `Dashboard.pbix`) used for data visualization.
